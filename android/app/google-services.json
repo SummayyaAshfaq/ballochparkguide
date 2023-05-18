@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "152523607772",
+    "project_id": "park-direction-final-app",
+    "storage_bucket": "park-direction-final-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152523607772:android:f64c6eb7c48bb7ad02ee19",
+        "android_client_info": {
+          "package_name": "com.parkdirectionappmtechub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152523607772-0np2uublged49kjcrslic6v5e61fe3nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parkdirectionappmtechub",
+            "certificate_hash": "c54a8691c3dfb2cd5aef2efb3a75e6ecc736027b"
+          }
+        },
+        {
+          "client_id": "152523607772-2sohv77v18hn5ehvnn7i8vres8h9cvk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlLOeTsm1f84aZP1NJJnsJFUfzXK-06L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152523607772-2sohv77v18hn5ehvnn7i8vres8h9cvk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
