@@ -1,0 +1,14 @@
+current directory: /Users/muhammadusama/ProjectsNonicloude/parkApp/parkdirectionapp/vendor/bundle/ruby/2.6.0/gems/json-2.6.3/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20230514-19280-21o6qs.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin22/rbconfig.rb:21: warning: Insecure world writable dir /usr/local/bin in PATH, mode 040777
+creating Makefile
+
+current directory: /Users/muhammadusama/ProjectsNonicloude/parkApp/parkdirectionapp/vendor/bundle/ruby/2.6.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/muhammadusama/ProjectsNonicloude/parkApp/parkdirectionapp/vendor/bundle/ruby/2.6.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/muhammadusama/ProjectsNonicloude/parkApp/parkdirectionapp/vendor/bundle/ruby/2.6.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
